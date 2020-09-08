@@ -24,6 +24,9 @@
     position: fixed; 
     float: left; 
 }
+.sidebar-css li{
+    cursor: pointer;
+}
 /* navigation bar text  */
 .nav-header{
     font-family: Montserrat;
