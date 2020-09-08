@@ -1,6 +1,6 @@
 **Reporting Activity** 
 
-Here are four potential story ideas:
+Here are five potential story ideas:
 
 
  * You hear that Campus Kitchen, a student group, has been told to immediately stop all programming by Student Union. There are rumors as to why but no one has a clear answer. 
