@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce328e05276cbf45a0ab65ab79587fef",
+    "revision": "06b4740caff63652f78818fdc65e1b5b",
     "url": "/studlife-training/index.html"
   },
   {
-    "revision": "5d67f843bd827e023c3f",
+    "revision": "2d9a1bf7f3385058915e",
     "url": "/studlife-training/static/css/main.ec06fa6c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/studlife-training/static/js/2.bc0d180c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5d67f843bd827e023c3f",
-    "url": "/studlife-training/static/js/main.c7f4eaf6.chunk.js"
+    "revision": "2d9a1bf7f3385058915e",
+    "url": "/studlife-training/static/js/main.77d40580.chunk.js"
   },
   {
     "revision": "f9161074d56a3d8b2f5a",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/studlife-training/static/media/reportingActivity.dcea4689.md"
   },
   {
-    "revision": "a9b5a54e3db9f9d2335a0904f4ae004d",
-    "url": "/studlife-training/static/media/reportingText.a9b5a54e.md"
+    "revision": "b442d8788de060c776cbcb16439be65b",
+    "url": "/studlife-training/static/media/reportingText.b442d878.md"
   },
   {
     "revision": "b008ed0650b28013b7c7fd3cfcb8bb2b",
@@ -76,7 +76,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/studlife-training/static/media/washUText.850c4ebc.md"
   },
   {
-    "revision": "ac280e58b7ec891e54aa296a623f9dd3",
-    "url": "/studlife-training/static/media/welcomeText.ac280e58.md"
+    "revision": "69d364fce12715739451ad2834aa0bc9",
+    "url": "/studlife-training/static/media/welcomeText.69d364fc.md"
   }
 ]);

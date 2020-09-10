@@ -17,7 +17,7 @@ No matter where your interests are, we have a place for you:
 * Designers & photographers: Designers create graphics, illustrations, photos and other pieces of visual media to compliment stories and other projects. 
 * Multimedia reporters: Multimedia staffers report across non-textual mediums like audio and video to produce reporting and experiential projects. 
 
-**Student Life&rsquo;s motto is &quot;Come as you are.&quot; There are no cuts, or applications and no expectations of prior experience&mdash;we&rsquo;re eager to work with anyone who is interested in being on staff.** 
+**Student Life&rsquo;s motto is &quot;Come as you are.&quot; There are no cuts, no applications and no expectations of prior experience&mdash;we&rsquo;re eager to work with anyone who is interested in being on staff.** 
 
 The goal of these training modules is to give you an understanding of basic journalistic best practices so everyone is set up for success. 
 
