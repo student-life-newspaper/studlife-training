@@ -41,15 +41,16 @@
 * When you first walk into an interview you should always do a couple of things:
  
   * Thank the subject for taking the time to talk.
-  * Always ask for the basic information about the subject, such as their name, position/title, and preferred pronouns first.
+  * Always ask for the basic information about the subject, such as their name, position/title and pronouns first.
 
   * **Ask to record the interview.**
   * Interviews must be recorded so that we can accurately quote sources. Ethically we as reporters must let the subject know they’re being recorded. Before you start asking questions, always first ask: “Is it okay if I record our conversation?”
 
-  * The only reason not to record someone is if they specifically ask for the interview to be “off the record,” meaning that nothing they say can be quoted or paraphrased in the article, or “on background,” meaning that their insights can be paraphrased, but none of their quotes can be used. 
-  * **On the record:** attributable to the source by name
-  * **On background:** quotable, but not attributable to the source by name
-  * **Off the record:** Not quotable
+  * The only reason not to record someone is if they specifically ask for the interview to be “off the record,” meaning that nothing they say can be quoted or paraphrased in the article. Here are the different layers of reporting: 
+    * **On the record:** attributable to the source by name
+    * **On background:** quotable, but not attributable to the source by name
+    * **Off the record:** Not quotable
+    * Whether or not someone is on the record, on background or off the record *must* be set before the interview begins. Generally speaking if you ask the source if you can record the interview, it is established that you are on the record. Once something is on the record you cannot take it off the record.
 
 * Asking follow up questions is important. 
   * If you listen closely enough, almost any interviewee will say something during the course of a conversation that deserves further investigation. Whether they simply need to be asked “why do you think that?” or whether something they say leads you to another question entirely, be flexible in interviews and clarify anything you can
