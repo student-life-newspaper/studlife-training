@@ -50,7 +50,7 @@
     * **On the record:** attributable to the source by name
     * **On background:** quotable, but not attributable to the source by name
     * **Off the record:** Not quotable
-    * Whether or not someone is on the record, on background or off the record *must* be set before the interview begins. Generally speaking if you ask the source if you can record the interview, it is established that you are on the record. Once something is on the record you cannot take it off the record.
+    * Whether or not someone is on the record, on background or off the record *must* be set before the interview begins. Generally speaking if you ask the source if you can record the interview and they agree, it is established that you are on the record. Once something is on the record you cannot take it off the record.
 
 * Asking follow up questions is important. 
   * If you listen closely enough, almost any interviewee will say something during the course of a conversation that deserves further investigation. Whether they simply need to be asked “why do you think that?” or whether something they say leads you to another question entirely, be flexible in interviews and clarify anything you can

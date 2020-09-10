@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/studlife-training/static/css/main.ec06fa6c.chunk.css",
-    "main.js": "/studlife-training/static/js/main.77d40580.chunk.js",
-    "main.js.map": "/studlife-training/static/js/main.77d40580.chunk.js.map",
+    "main.js": "/studlife-training/static/js/main.ec654a07.chunk.js",
+    "main.js.map": "/studlife-training/static/js/main.ec654a07.chunk.js.map",
     "runtime-main.js": "/studlife-training/static/js/runtime-main.930c66c5.js",
     "runtime-main.js.map": "/studlife-training/static/js/runtime-main.930c66c5.js.map",
     "static/js/2.bc0d180c.chunk.js": "/studlife-training/static/js/2.bc0d180c.chunk.js",
     "static/js/2.bc0d180c.chunk.js.map": "/studlife-training/static/js/2.bc0d180c.chunk.js.map",
     "index.html": "/studlife-training/index.html",
-    "precache-manifest.4c846d1de1d9b4c67fc2d75492d3126a.js": "/studlife-training/precache-manifest.4c846d1de1d9b4c67fc2d75492d3126a.js",
+    "precache-manifest.e19b2acefa68c38632436b633df76b93.js": "/studlife-training/precache-manifest.e19b2acefa68c38632436b633df76b93.js",
     "service-worker.js": "/studlife-training/service-worker.js",
     "static/css/main.ec06fa6c.chunk.css.map": "/studlife-training/static/css/main.ec06fa6c.chunk.css.map",
     "static/js/2.bc0d180c.chunk.js.LICENSE.txt": "/studlife-training/static/js/2.bc0d180c.chunk.js.LICENSE.txt",
@@ -20,7 +20,7 @@
     "static/media/newsActivity.md": "/studlife-training/static/media/newsActivity.55178844.md",
     "static/media/newsText.md": "/studlife-training/static/media/newsText.297ebce2.md",
     "static/media/reportingActivity.md": "/studlife-training/static/media/reportingActivity.dcea4689.md",
-    "static/media/reportingText.md": "/studlife-training/static/media/reportingText.b442d878.md",
+    "static/media/reportingText.md": "/studlife-training/static/media/reportingText.74a68594.md",
     "static/media/spj-code-of-ethics.png": "/studlife-training/static/media/spj-code-of-ethics.b008ed06.png",
     "static/media/submissionText.md": "/studlife-training/static/media/submissionText.a0eefc10.md",
     "static/media/washUActivity.md": "/studlife-training/static/media/washUActivity.53b8e30f.md",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.930c66c5.js",
     "static/js/2.bc0d180c.chunk.js",
     "static/css/main.ec06fa6c.chunk.css",
-    "static/js/main.77d40580.chunk.js"
+    "static/js/main.ec654a07.chunk.js"
   ]
 }
