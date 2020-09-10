@@ -19,7 +19,7 @@ No matter where your interests are, we have a place for you:
 
 **Student Life&rsquo;s motto is &quot;Come as you are.&quot; There are no cuts, or applications and no expectations of prior experience&mdash;we&rsquo;re eager to work with anyone who is interested in being on staff.** 
 
-The goal of these training modules are to give you an understanding of basic journalistic best practices so everyone is set up for success. 
+The goal of these training modules is to give you an understanding of basic journalistic best practices so everyone is set up for success. 
 
 These four modules will walk you through the basics of reporting and news ethics, an overview of Washington University and how to write from reporting or personal experience. 
 
