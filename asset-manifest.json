@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/studlife-training/static/css/main.ec06fa6c.chunk.css",
-    "main.js": "/studlife-training/static/js/main.22c4b36e.chunk.js",
-    "main.js.map": "/studlife-training/static/js/main.22c4b36e.chunk.js.map",
+    "main.js": "/studlife-training/static/js/main.c7f4eaf6.chunk.js",
+    "main.js.map": "/studlife-training/static/js/main.c7f4eaf6.chunk.js.map",
     "runtime-main.js": "/studlife-training/static/js/runtime-main.930c66c5.js",
     "runtime-main.js.map": "/studlife-training/static/js/runtime-main.930c66c5.js.map",
     "static/js/2.bc0d180c.chunk.js": "/studlife-training/static/js/2.bc0d180c.chunk.js",
     "static/js/2.bc0d180c.chunk.js.map": "/studlife-training/static/js/2.bc0d180c.chunk.js.map",
     "index.html": "/studlife-training/index.html",
-    "precache-manifest.ba68048ca2f5c8cdb20aea2d66b1b513.js": "/studlife-training/precache-manifest.ba68048ca2f5c8cdb20aea2d66b1b513.js",
+    "precache-manifest.c26ef535409d962fbf2342296811f82d.js": "/studlife-training/precache-manifest.c26ef535409d962fbf2342296811f82d.js",
     "service-worker.js": "/studlife-training/service-worker.js",
     "static/css/main.ec06fa6c.chunk.css.map": "/studlife-training/static/css/main.ec06fa6c.chunk.css.map",
     "static/js/2.bc0d180c.chunk.js.LICENSE.txt": "/studlife-training/static/js/2.bc0d180c.chunk.js.LICENSE.txt",
     "static/media/Main.css": "/studlife-training/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/ethicsText.md": "/studlife-training/static/media/ethicsText.cfc97994.md",
-    "static/media/experienceActivity.md": "/studlife-training/static/media/experienceActivity.bed581e7.md",
-    "static/media/experienceText.md": "/studlife-training/static/media/experienceText.be9f102f.md",
+    "static/media/experienceActivity.md": "/studlife-training/static/media/experienceActivity.0e8e3c2c.md",
+    "static/media/experienceText.md": "/studlife-training/static/media/experienceText.5d0e4419.md",
     "static/media/logo-studentlife-white.svg": "/studlife-training/static/media/logo-studentlife-white.439135d8.svg",
     "static/media/newsActivity.md": "/studlife-training/static/media/newsActivity.55178844.md",
     "static/media/newsText.md": "/studlife-training/static/media/newsText.297ebce2.md",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.930c66c5.js",
     "static/js/2.bc0d180c.chunk.js",
     "static/css/main.ec06fa6c.chunk.css",
-    "static/js/main.22c4b36e.chunk.js"
+    "static/js/main.c7f4eaf6.chunk.js"
   ]
 }

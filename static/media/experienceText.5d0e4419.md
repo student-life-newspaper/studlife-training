@@ -11,8 +11,7 @@
   * When writing, it’s easy to envision your reader sitting down and reading your piece, and this vision, however, can pull us out of writing our truths, and pull us into saying what we think we should say, as opposed to what happened. As aforementioned, keep your audience in mind when you write, but make sure you’re writing the truth as it happened. Did you actually feel that way? Did this experience really happen as written? 
 
 * __Fact check your piece with yourself__
-  * Use research to support what you know
-When writing from our experiences, we sometimes lock ourselves into our own minds and we become our only source for information. However, using outside sourcing can be used to your advantage. Try to find data or perspectives that assist (or even challenge) your point of view. Interacting your experiences with outside information can bolster your piece and make it more interesting.
+  * Use research to support what you know. When writing from our experiences, we sometimes lock ourselves into our own minds and we become our only source for information. However, using outside sourcing can be used to your advantage. Try to find data or perspectives that assist (or even challenge) your point of view. Interacting your experiences with outside information can bolster your piece and make it more interesting.
 
 * __Keep your voice authentic__
   * When writing your experience, it’s important to keep in mind that you’re not writing an essay. You’re not turning the article into a professor for a grade. Instead, you’re writing to share your experience and perspective. Be strong in your wording/diction, but keep it simple and relatable.
