@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14c2ec0f692f4be5e62d6c1f45ef8a90",
+    "revision": "9cf94124ad3ada8de82acb8e8045f529",
     "url": "/studlife-training/index.html"
   },
   {
-    "revision": "084d41c2e8bffddf5098",
+    "revision": "766e2918f7161c12dac9",
     "url": "/studlife-training/static/css/main.ec06fa6c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/studlife-training/static/js/2.bc0d180c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "084d41c2e8bffddf5098",
-    "url": "/studlife-training/static/js/main.4c35e89b.chunk.js"
+    "revision": "766e2918f7161c12dac9",
+    "url": "/studlife-training/static/js/main.22c4b36e.chunk.js"
   },
   {
     "revision": "f9161074d56a3d8b2f5a",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/studlife-training/static/media/experienceActivity.bed581e7.md"
   },
   {
-    "revision": "3d8f9aaf58b44071a58a876913d2176d",
-    "url": "/studlife-training/static/media/experienceText.3d8f9aaf.md"
+    "revision": "be9f102f6cd20e17af559774ac2cb34e",
+    "url": "/studlife-training/static/media/experienceText.be9f102f.md"
   },
   {
     "revision": "439135d88d1f4a77b715d8f5ee66e44f",
@@ -56,16 +56,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/studlife-training/static/media/reportingActivity.dcea4689.md"
   },
   {
-    "revision": "a2fcff9a4171bd84143f72c3821f7c38",
-    "url": "/studlife-training/static/media/reportingText.a2fcff9a.md"
+    "revision": "a9b5a54e3db9f9d2335a0904f4ae004d",
+    "url": "/studlife-training/static/media/reportingText.a9b5a54e.md"
   },
   {
     "revision": "b008ed0650b28013b7c7fd3cfcb8bb2b",
     "url": "/studlife-training/static/media/spj-code-of-ethics.b008ed06.png"
   },
   {
-    "revision": "10d012fc5b6d190413f17007af52a662",
-    "url": "/studlife-training/static/media/submissionText.10d012fc.md"
+    "revision": "a0eefc10d84ee67eb587278ee3ac901f",
+    "url": "/studlife-training/static/media/submissionText.a0eefc10.md"
   },
   {
     "revision": "53b8e30f14d2a8be88aff320dfcbe017",

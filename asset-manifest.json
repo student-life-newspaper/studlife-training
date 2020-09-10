@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/studlife-training/static/css/main.ec06fa6c.chunk.css",
-    "main.js": "/studlife-training/static/js/main.4c35e89b.chunk.js",
-    "main.js.map": "/studlife-training/static/js/main.4c35e89b.chunk.js.map",
+    "main.js": "/studlife-training/static/js/main.22c4b36e.chunk.js",
+    "main.js.map": "/studlife-training/static/js/main.22c4b36e.chunk.js.map",
     "runtime-main.js": "/studlife-training/static/js/runtime-main.930c66c5.js",
     "runtime-main.js.map": "/studlife-training/static/js/runtime-main.930c66c5.js.map",
     "static/js/2.bc0d180c.chunk.js": "/studlife-training/static/js/2.bc0d180c.chunk.js",
     "static/js/2.bc0d180c.chunk.js.map": "/studlife-training/static/js/2.bc0d180c.chunk.js.map",
     "index.html": "/studlife-training/index.html",
-    "precache-manifest.6bcfbbf4e313c2bb11b327b6ce0a629c.js": "/studlife-training/precache-manifest.6bcfbbf4e313c2bb11b327b6ce0a629c.js",
+    "precache-manifest.ba68048ca2f5c8cdb20aea2d66b1b513.js": "/studlife-training/precache-manifest.ba68048ca2f5c8cdb20aea2d66b1b513.js",
     "service-worker.js": "/studlife-training/service-worker.js",
     "static/css/main.ec06fa6c.chunk.css.map": "/studlife-training/static/css/main.ec06fa6c.chunk.css.map",
     "static/js/2.bc0d180c.chunk.js.LICENSE.txt": "/studlife-training/static/js/2.bc0d180c.chunk.js.LICENSE.txt",
     "static/media/Main.css": "/studlife-training/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/ethicsText.md": "/studlife-training/static/media/ethicsText.cfc97994.md",
     "static/media/experienceActivity.md": "/studlife-training/static/media/experienceActivity.bed581e7.md",
-    "static/media/experienceText.md": "/studlife-training/static/media/experienceText.3d8f9aaf.md",
+    "static/media/experienceText.md": "/studlife-training/static/media/experienceText.be9f102f.md",
     "static/media/logo-studentlife-white.svg": "/studlife-training/static/media/logo-studentlife-white.439135d8.svg",
     "static/media/newsActivity.md": "/studlife-training/static/media/newsActivity.55178844.md",
     "static/media/newsText.md": "/studlife-training/static/media/newsText.297ebce2.md",
     "static/media/reportingActivity.md": "/studlife-training/static/media/reportingActivity.dcea4689.md",
-    "static/media/reportingText.md": "/studlife-training/static/media/reportingText.a2fcff9a.md",
+    "static/media/reportingText.md": "/studlife-training/static/media/reportingText.a9b5a54e.md",
     "static/media/spj-code-of-ethics.png": "/studlife-training/static/media/spj-code-of-ethics.b008ed06.png",
-    "static/media/submissionText.md": "/studlife-training/static/media/submissionText.10d012fc.md",
+    "static/media/submissionText.md": "/studlife-training/static/media/submissionText.a0eefc10.md",
     "static/media/washUActivity.md": "/studlife-training/static/media/washUActivity.53b8e30f.md",
     "static/media/washUText.md": "/studlife-training/static/media/washUText.850c4ebc.md",
     "static/media/welcomeText.md": "/studlife-training/static/media/welcomeText.ac280e58.md"
@@ -31,6 +31,6 @@
     "static/js/runtime-main.930c66c5.js",
     "static/js/2.bc0d180c.chunk.js",
     "static/css/main.ec06fa6c.chunk.css",
-    "static/js/main.4c35e89b.chunk.js"
+    "static/js/main.22c4b36e.chunk.js"
   ]
 }

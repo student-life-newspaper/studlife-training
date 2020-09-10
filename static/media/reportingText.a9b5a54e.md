@@ -1,7 +1,5 @@
 ﻿1. __Finding a story:__ 
-* Every story starts with something happening or something strange being noticed. 
-
-* Whether it’s the creation of a new academic program, the University announcing plans to completely shut down another end of campus under the guise of “construction,”  if students might care about it, we should be reporting on it. 
+* Whether it’s the creation of a new academic program, the University announcing plans to completely shut down another end of campus under the guise of “construction” or something else entirely, if students might care about it, we should be reporting on it. 
 
 * As a reporter, you should make a mental note of anything and everything you think might be newsworthy, and bring all of those ideas to your editor. 
 
