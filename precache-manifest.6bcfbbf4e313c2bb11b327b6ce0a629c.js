@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea388e4c463619747d5313ebffbdbf11",
+    "revision": "14c2ec0f692f4be5e62d6c1f45ef8a90",
     "url": "/studlife-training/index.html"
   },
   {
-    "revision": "8ddda371f533436a9fa4",
+    "revision": "084d41c2e8bffddf5098",
     "url": "/studlife-training/static/css/main.ec06fa6c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/studlife-training/static/js/2.bc0d180c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8ddda371f533436a9fa4",
-    "url": "/studlife-training/static/js/main.f22c37c1.chunk.js"
+    "revision": "084d41c2e8bffddf5098",
+    "url": "/studlife-training/static/js/main.4c35e89b.chunk.js"
   },
   {
     "revision": "f9161074d56a3d8b2f5a",
@@ -48,16 +48,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/studlife-training/static/media/newsActivity.55178844.md"
   },
   {
-    "revision": "67330a171f09518c9ab4055345d1d8e2",
-    "url": "/studlife-training/static/media/newsText.67330a17.md"
+    "revision": "297ebce2b7cd894a6393cac74a2cd195",
+    "url": "/studlife-training/static/media/newsText.297ebce2.md"
   },
   {
     "revision": "dcea4689b39cd8102283bcfdf7ec9617",
     "url": "/studlife-training/static/media/reportingActivity.dcea4689.md"
   },
   {
-    "revision": "4e95dd640ca9707bf179e039064e5717",
-    "url": "/studlife-training/static/media/reportingText.4e95dd64.md"
+    "revision": "a2fcff9a4171bd84143f72c3821f7c38",
+    "url": "/studlife-training/static/media/reportingText.a2fcff9a.md"
   },
   {
     "revision": "b008ed0650b28013b7c7fd3cfcb8bb2b",

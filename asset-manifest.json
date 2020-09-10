@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/studlife-training/static/css/main.ec06fa6c.chunk.css",
-    "main.js": "/studlife-training/static/js/main.f22c37c1.chunk.js",
-    "main.js.map": "/studlife-training/static/js/main.f22c37c1.chunk.js.map",
+    "main.js": "/studlife-training/static/js/main.4c35e89b.chunk.js",
+    "main.js.map": "/studlife-training/static/js/main.4c35e89b.chunk.js.map",
     "runtime-main.js": "/studlife-training/static/js/runtime-main.930c66c5.js",
     "runtime-main.js.map": "/studlife-training/static/js/runtime-main.930c66c5.js.map",
     "static/js/2.bc0d180c.chunk.js": "/studlife-training/static/js/2.bc0d180c.chunk.js",
     "static/js/2.bc0d180c.chunk.js.map": "/studlife-training/static/js/2.bc0d180c.chunk.js.map",
     "index.html": "/studlife-training/index.html",
-    "precache-manifest.fbd36f22f9cc5b1aa3d3d9bb6fb001ed.js": "/studlife-training/precache-manifest.fbd36f22f9cc5b1aa3d3d9bb6fb001ed.js",
+    "precache-manifest.6bcfbbf4e313c2bb11b327b6ce0a629c.js": "/studlife-training/precache-manifest.6bcfbbf4e313c2bb11b327b6ce0a629c.js",
     "service-worker.js": "/studlife-training/service-worker.js",
     "static/css/main.ec06fa6c.chunk.css.map": "/studlife-training/static/css/main.ec06fa6c.chunk.css.map",
     "static/js/2.bc0d180c.chunk.js.LICENSE.txt": "/studlife-training/static/js/2.bc0d180c.chunk.js.LICENSE.txt",
@@ -18,9 +18,9 @@
     "static/media/experienceText.md": "/studlife-training/static/media/experienceText.3d8f9aaf.md",
     "static/media/logo-studentlife-white.svg": "/studlife-training/static/media/logo-studentlife-white.439135d8.svg",
     "static/media/newsActivity.md": "/studlife-training/static/media/newsActivity.55178844.md",
-    "static/media/newsText.md": "/studlife-training/static/media/newsText.67330a17.md",
+    "static/media/newsText.md": "/studlife-training/static/media/newsText.297ebce2.md",
     "static/media/reportingActivity.md": "/studlife-training/static/media/reportingActivity.dcea4689.md",
-    "static/media/reportingText.md": "/studlife-training/static/media/reportingText.4e95dd64.md",
+    "static/media/reportingText.md": "/studlife-training/static/media/reportingText.a2fcff9a.md",
     "static/media/spj-code-of-ethics.png": "/studlife-training/static/media/spj-code-of-ethics.b008ed06.png",
     "static/media/submissionText.md": "/studlife-training/static/media/submissionText.10d012fc.md",
     "static/media/washUActivity.md": "/studlife-training/static/media/washUActivity.53b8e30f.md",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.930c66c5.js",
     "static/js/2.bc0d180c.chunk.js",
     "static/css/main.ec06fa6c.chunk.css",
-    "static/js/main.f22c37c1.chunk.js"
+    "static/js/main.4c35e89b.chunk.js"
   ]
 }
